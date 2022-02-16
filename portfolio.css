@@ -2,6 +2,11 @@
     --tw-gradient-to: #FCD34D;
 }
 
+
+
+.sm\:text-lg {
+  color:white;
+}
 .from-indigo-600 {
     --tw-gradient-from: #FCD34D;
     --tw-gradient-stops: var(--tw-gradient-from),var(--tw-gradient-to, rgba(79, 70, 229, 0));
