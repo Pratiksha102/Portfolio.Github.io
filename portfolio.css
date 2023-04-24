@@ -100,11 +100,11 @@ body{
 {
     
         .lg\:w-1\/3 {
-          width:30%;
-          margin-top:-90%;
+          width:100%;
+          margin-top:-10%;
         }
     .line-1 {
-        font-size: 60%;
+        font-size: 15px;
      
     } 
 }
